@@ -42,6 +42,10 @@ cd freedit && cargo build -r
 ./target/release/freedit
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Freedit/)
+
 ## FAQ
 
 ### How to generate podcast srt file?
